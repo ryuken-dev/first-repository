@@ -1,6 +1,6 @@
 <?php
 
-    namespace ryuken\FirstRepository\HelloWorld;
+    namespace Ryuken\FirstRepository;
 
     class HelloWorld
     {
